@@ -1,0 +1,22 @@
+# Sign Language to Text and Speech Conversion - Required Packages
+
+# Computer Vision and Image Processing
+opencv-python==4.10.0.84
+cvzone==1.6.1
+Pillow==11.3.0
+
+# Machine Learning and Deep Learning
+tensorflow==2.20.0
+keras==3.11.3
+numpy==1.26.4
+
+# Text-to-Speech and Language Processing
+pyttsx3==2.99
+pyenchant==3.3.0
+
+# Additional dependencies for mediapipe and visualization
+matplotlib==3.10.6
+sounddevice==0.5.2
+attrs==25.3.0
+
+# Note: tkinter is included with Python standard library and doesn't need to be installed separately
